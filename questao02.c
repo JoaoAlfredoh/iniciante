@@ -17,6 +17,5 @@ int main () {
 	else 
 		printf ("A pessoa é menor idade, não pode comprar bebida alcoólica");
 	
-
 return 0;
 }
