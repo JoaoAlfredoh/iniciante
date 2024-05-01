@@ -1,3 +1,7 @@
+//Lista 02
+//QuestÃ£o 03) Escreva um programa para ler 2 valores (considere que nÃ£o serÃ£o informados valores iguais) e 
+//escrever o maior deles.
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -12,9 +16,9 @@ int main () {
 		printf ("Digite dois valores diferentes");
 	 } else {
 		if (a > b) {
-			printf ("O número %d é maior que o número %d", a, b);
+			printf ("O nÃºmero %d Ã© maior que o nÃºmero %d", a, b);
 		} else {
-			printf ("O número %d é maior que o número %d", b, a);
+			printf ("O nÃºmero %d Ã© maior que o nÃºmero %d", b, a);
 		}
 		} 
     	
