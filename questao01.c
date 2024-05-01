@@ -1,3 +1,6 @@
+//Lista de exercÃ­cios 02 
+//QuestÃ£o 01) Escreva um programa que leia um nÃºmero inteiro, calcule e escreva se ele Ã© par ou Ã­mpar.
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -5,13 +8,13 @@ int main () {
 	setlocale (LC_ALL, "");
 	
 	int a;
-	printf ("Digite um número: ");
+	printf ("Digite um nÃºmero: ");
 	scanf ("%d", &a);
 	
 	if (a%2 == 0)
-		printf ("O número %d é par", a);
+		printf ("O nÃºmero %d Ã© par", a);
 	else 
-		printf ("O número %d é ímpar", a);
+		printf ("O nÃºmero %d Ã© Ã­mpar", a);
 		
 return 0;
 }
