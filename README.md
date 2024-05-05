@@ -1,6 +1,40 @@
 # Iniciantes
 ## Para estudo
 Repositório criado para acompanhamento de estudos de graduando em Sistemas de Informação.
+
+### Lista de Exercício nº 1 – Comandos de Entrada, Saída e de Atribuição
+
+**Questão 1)** Escreva um programa que leia um número inteiro, calcule e escreva o quadrado dele. Exemplo: Valor lido 5. Saída será 25;
+
+**Questão 2)** Escreva um programa que leia 3 notas, calcule e escreva a média aritmética dessas 3 notas
+
+**Questão 3)** Escreva um programa que leia 2 números, calcule e escreva a soma entre eles. Exemplo: Valores lidos 100 e 11. Saída será 111.
+
+**Questão 4)** Escreva um programa que leia 2 números, calcule e escreva a diferença entre eles. Exemplo: Valores lidos 100 e 11. Saída será 89.
+
+**Questão 5)** Escreva um programa que leia 2 números, calcule e escreva o produto deles. Exemplo: Valores lidos 101 e 11. Saída será 1111.
+
+**Questão 6)** Escreva um programa que leia 2 números, calcule e escreva a divisão do primeiro número pelo segundo. Exemplo: Valores lidos 101 e 11. Saída será 9,181818.
+
+**Questão 7)** Escreva um programa que leia 2 números inteiros e escreva o dividendo, divisor, quociente e o resto. 
+
+**Questão 8)** Escreva um programa que leia 4 números, calcule e escreva a média ponderada, sabendo que os pesos dos números são, respectivamente, 1, 2, 3 e 4.
+
+**Questão 9)** Sabendo-se que 100kW de energia custa um sétimo do salário mínimo, fazer um programa que leia o valor do salário mínimo e a quantidade de quilowatts gasta por uma residência. Calcule e escreva: o valor, em reais, de cada quilowatt, o valor, em reais, a ser pago e o novo valor a ser pago por essa residência com um desconto de 10%.
+
+**Questão 10)** Escreva um programa que calcule e escreva o perímetro e a área de um círculo.
+
+**Questão 11)** Em épocas de pouco dinheiro, os comerciantes estão procurando aumentar suas vendas oferecendo desconto. Faça um programa que possa entrar com o valor de um produto e escreva o novo valor tendo em vista que o desconto foi de 9%.
+
+**Questão 12)** Criar um programa que efetue o cálculo do salário líquido de um professor. Os dados fornecidos serão: valor da hora aula, número de aulas dadas no mês e percentual de desconto do INSS.
+
+**Questão 13)** Criar um programa que leia o numerador e o denominador de uma fração e transformá-lo em um número decimal. Mostre esse resultado.
+
+**Questão 14)** Todo restaurante embora por lei não possa obrigar o cliente a pagar, cobra 10% para o garçom. Fazer um programa que leia o valor gasto com despesas realizadas em um restaurante e escreva o valor total com a gorjeta.
+
+**Questão 15)** Para vários tributos, a base de cálculo é o salário mínimo. Fazer um programa que leia o valor do salário mínimo e o valor do salário de uma pessoa. Calcular e escrever quantos salários mínimos ela ganha.
+
+
 ### Lista de Exercício nº 2 – Estrutura Condicional
 
 **Questão 1)**  Escreva um programa que leia um número inteiro, calcule e escreva se ele é par ou ímpar.
